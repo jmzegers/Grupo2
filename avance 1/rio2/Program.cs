@@ -22,6 +22,7 @@ namespace rio
                 {
                     Random rnd = new Random();
                     int lina = rnd.Next(8, 8);
+                    
                     mat[f, c] = lina;
                 }
             }

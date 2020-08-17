@@ -8,12 +8,18 @@ namespace terreno
 {
     class terreno
     {
+        static void Main(string[] args)
+        {
+            terreno ma = new terreno();
+            ma.Cargar();
+            ma.Imprimir();
+            Console.ReadKey();
+        }
         public int[,] mat;
 
         public void Cargar()
         {
             Console.Write("matrix de 100x100 para el terreno. \t");
-            string linea;
             string pregunta1 = "¿desea agregar un rio (si(0), no(1))?";
             string pregunta2 = "¿desea agregar un lago (si(0), no(1))?";
             Console.WriteLine(pregunta1);
@@ -50,12 +56,6 @@ namespace terreno
             }
         }
 
-        static void Main(string[] args)
-        {
-            terreno ma = new terreno();
-            ma.Cargar();
-            ma.Imprimir();
-            Console.ReadKey();
-        }
+
     }
 }

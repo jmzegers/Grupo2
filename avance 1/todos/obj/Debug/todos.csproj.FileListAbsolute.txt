@@ -1,0 +1,7 @@
+C:\Users\56984\Desktop\a\avance 1\todos\bin\Debug\todos.exe.config
+C:\Users\56984\Desktop\a\avance 1\todos\bin\Debug\todos.exe
+C:\Users\56984\Desktop\a\avance 1\todos\bin\Debug\todos.pdb
+C:\Users\56984\Desktop\a\avance 1\todos\obj\Debug\todos.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\a\avance 1\todos\obj\Debug\todos.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\a\avance 1\todos\obj\Debug\todos.exe
+C:\Users\56984\Desktop\a\avance 1\todos\obj\Debug\todos.pdb

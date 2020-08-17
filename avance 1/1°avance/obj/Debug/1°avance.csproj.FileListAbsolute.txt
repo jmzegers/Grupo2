@@ -12,3 +12,10 @@ C:\Users\56984\Desktop\proyecto\avance 1\avance 1\1°avance\obj\Debug\1°avance.
 C:\Users\56984\Desktop\proyecto\avance 1\avance 1\1°avance\obj\Debug\1°avance.csproj.CoreCompileInputs.cache
 C:\Users\56984\Desktop\proyecto\avance 1\avance 1\1°avance\obj\Debug\1°avance.exe
 C:\Users\56984\Desktop\proyecto\avance 1\avance 1\1°avance\obj\Debug\1°avance.pdb
+C:\Users\56984\Desktop\a\avance 1\1°avance\bin\Debug\1°avance.exe.config
+C:\Users\56984\Desktop\a\avance 1\1°avance\bin\Debug\1°avance.exe
+C:\Users\56984\Desktop\a\avance 1\1°avance\bin\Debug\1°avance.pdb
+C:\Users\56984\Desktop\a\avance 1\1°avance\obj\Debug\1°avance.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\a\avance 1\1°avance\obj\Debug\1°avance.csproj.CoreCompileInputs.cache
+C:\Users\56984\Desktop\a\avance 1\1°avance\obj\Debug\1°avance.exe
+C:\Users\56984\Desktop\a\avance 1\1°avance\obj\Debug\1°avance.pdb

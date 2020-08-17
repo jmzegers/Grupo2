@@ -1,0 +1,2 @@
+C:\Users\56984\Desktop\a\avance 1\todo en uno\obj\Debug\todo en uno.csprojAssemblyReference.cache
+C:\Users\56984\Desktop\a\avance 1\todo en uno\obj\Debug\todo en uno.csproj.CoreCompileInputs.cache

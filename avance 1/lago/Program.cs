@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lago
 {
-    class lago
+    class Lago
     {
         public int[,] mat;
 
@@ -41,7 +41,7 @@ namespace lago
 
         static void Main(string[] args)
         {
-            lago ma = new lago();
+            Lago ma = new Lago();
             ma.Cargar();
             ma.Imprimir();
             Console.ReadKey();
